@@ -1,0 +1,16 @@
+from django.db import migrations, models
+
+
+class Migration(migrations.Migration):
+
+    dependencies = [
+        ('produto', '0006_auto_20190815_0956'),
+    ]
+
+    operations = [
+        migrations.AlterField(
+            model_name='produto',
+            name='slug',
+            field=models.SlugField(unique=True),
+        ),
+    ]
