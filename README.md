@@ -1,6 +1,20 @@
 # 🛒 E-commerce Django
 
-Projeto de e-commerce desenvolvido com **Python e Django**.
+## 🎯 Objetivo
+
+Este projeto foi desenvolvido como parte de um estudo pessoal, com o objetivo de praticar e aprimorar habilidades no desenvolvimento de aplicações web utilizando **Python e Django**.
+
+Durante o desenvolvimento, foram explorados conceitos como:
+
+- Desenvolvimento web com Django
+- Models e relacionamentos
+- Autenticação de usuários
+- Sessions
+- CRUD
+- Templates
+- Formulários
+- Gerenciamento de pedidos
+- Fluxo de pagamento
 
 ## 🚀 Funcionalidades
 
@@ -40,22 +54,6 @@ Projeto de e-commerce desenvolvido com **Python e Django**.
 - **CSS3**
 - **Bootstrap**
 - **JavaScript**
-
-## 🎯 Objetivo
-
-Este projeto foi desenvolvido como parte de um estudo pessoal, com o objetivo de praticar e aprimorar habilidades no desenvolvimento de aplicações web utilizando **Python e Django**.
-
-Durante o desenvolvimento, foram explorados conceitos como:
-
-- Desenvolvimento web com Django
-- Models e relacionamentos
-- Autenticação de usuários
-- Sessions
-- CRUD
-- Templates
-- Formulários
-- Gerenciamento de pedidos
-- Fluxo de pagamento
 
 > ⚠️ **Aviso:** Este projeto possui finalidade exclusivamente educacional e de aprendizado. Ele foi desenvolvido para estudo e prática das tecnologias utilizadas.
 
